@@ -3,6 +3,7 @@
       "sshd",
       "tmux",
       "junas",
-      "cue"
+      "cue",
+      "lang"
     ]
 }
