@@ -1,6 +1,7 @@
 {
   "require": [
       "sshd",
+      "git",
       "lang",
       "tmux",
       "junas",
