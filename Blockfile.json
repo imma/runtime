@@ -1,6 +1,5 @@
 {
   "require": [
-    [
       "sshd",
       "tmux",
       "junas",
