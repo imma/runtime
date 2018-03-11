@@ -1,4 +1,8 @@
 {
-  "require": [],
-  "versions": {}
+  "require": [
+    [
+      "sshd",
+      "tmux",
+      "junas"
+    ]
 }
