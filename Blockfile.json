@@ -1,9 +1,9 @@
 {
   "require": [
       "sshd",
+      "lang",
       "tmux",
       "junas",
-      "cue",
-      "lang"
+      "cue"
     ]
 }
