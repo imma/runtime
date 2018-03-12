@@ -5,6 +5,7 @@
       "lang",
       "tmux",
       "junas",
-      "cue"
+      "cue",
+      "docker-compose"
     ]
 }
