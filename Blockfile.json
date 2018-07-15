@@ -10,7 +10,6 @@
       "docker-compose",
       "lang",
       "gpg",
-      "aws-vault",
       "pass",
       "op",
       "aws"
